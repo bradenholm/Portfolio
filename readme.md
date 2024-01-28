@@ -33,6 +33,7 @@ Security software installed includes a MFA solution called [2FAuth](https://gith
 
 [Wireguard](https://www.wireguard.com/) is my preferred method for accessing the important information on my servers. Wireguard has been proven to be very robust and a reliable VPN solution. I use [pivpn](https://github.com/pivpn/pivpn) for setup of wireguard.
 
+---
 
 ### Server 2: Home Assistant
 
@@ -40,17 +41,20 @@ Smart home! This is the way to go if you care about privacy and want a smart hom
 
 I have 1 button, 1 temperature sensor and 8 smart plugs all using the Zigbee protocol and have near 100% uptime.
 
+---
 
 ### Mac Mini:
 
 This runs a program called [AirMessage](https://airmessage.org/) that privately and securely brings iMessage to android.
 Future plans include purchasing more of these, as they are extremely power efficient, and installing linux to run normal server tasks.
 
+---
 
 ### Router:
 
 My Asus router runs the open source firmware [Asuswrt-Merlin](https://www.asuswrt-merlin.net/) which adds more features, security and reliahttps://airmessage.org/bility to Asus routers. A future project is to purchase a [Protectli Vault](https://protectli.com/) and use [pfsense](https://www.pfsense.org/) as an even better router and firewall.
 
+---
 
 ### Mobile Phone: [GrapheneOS](https://grapheneos.org/)
 
