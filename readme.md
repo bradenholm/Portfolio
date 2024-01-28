@@ -57,8 +57,8 @@ My Asus router runs the open source firmware [Asuswrt-Merlin](https://www.asuswr
 This one is a lot.
 To keep it brief, GrapheneOS is a fork of the Android Open Source Operating system. It has been modified to be more hardened than this stock operating system. This improves security and privacy. 
 Things such as:
-   - Installing Google services as a normal user and not Admin [source](https://grapheneos.org/features#sandboxed-google-play) to improve functionality and maintain privacy
-   - Using "per-connection MAC randomization" [source](https://grapheneos.org/features#wifi-privacy) for better privacy when using WiFi
+   - Installing Google services as a normal user and not Admin ([source](https://grapheneos.org/features#sandboxed-google-play)) to improve functionality and maintain privacy
+   - Using "per-connection MAC randomization" ([source](https://grapheneos.org/features#wifi-privacy)) for better privacy when using WiFi
    - [Storage Scopes](https://grapheneos.org/features#storage-scopes) which gives an app permission to only the specified files, while bypassing any apps attempts to stop this
    - [Auto Reboot](https://grapheneos.org/features#auto-reboot) to help mitigate exploits like Pegasus
    - A [camera](https://grapheneos.org/features#grapheneos-camera) that doesn't capture un-needed metadata
