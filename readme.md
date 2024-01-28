@@ -5,7 +5,7 @@ Table of Contents:
 - [Home Assistant](https://github.com/bradenholm/Portfolio#server-2-home-assistant)
 - [Mac Mini](https://github.com/bradenholm/Portfolio#mac-mini)
 - [Router](https://github.com/bradenholm/Portfolio#router)
-- Mobile Phone
+- [Mobile Phone](https://github.com/bradenholm/Portfolio#mobile-phone-grapheneos)
 
 
 ### Server 1: SKYNET
