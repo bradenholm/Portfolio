@@ -1,5 +1,13 @@
 # Welcome, below is a list of some of the projects I have done.
 
+Table of Contents:
+- [SKYNET](https://github.com/bradenholm/Portfolio#server-1-skynet)
+- [Home Assistant](https://github.com/bradenholm/Portfolio#server-2-home-assistant)
+- [Mac Mini](https://github.com/bradenholm/Portfolio#mac-mini)
+- [Router](https://github.com/bradenholm/Portfolio#router)
+- Mobile Phone
+
+
 ### Server 1: SKYNET
 This server is setup as my main server. It has [CasaOS](https://github.com/IceWhaleTech/CasaOS) installed to make installing docker containers easier. 
    - More info about CasaOS: It uses it's own official repositories and allows third party ones, but also allows easy importing of official or custom docker containers from whatever source you want. The safest practice here is to choose only official containers.
@@ -35,6 +43,7 @@ I have 1 button, 1 temperature sensor and 8 smart plugs all using the Zigbee pro
 ### Mac Mini:
 
 This runs a program called [AirMessage](https://airmessage.org/) that privately and securely brings iMessage to android.
+Future plans include purchasing more of these, as they are extremely power efficient, and installing linux to run normal server tasks.
 
 
 ### Router:
@@ -42,3 +51,15 @@ This runs a program called [AirMessage](https://airmessage.org/) that privately 
 My Asus router runs the open source firmware [Asuswrt-Merlin](https://www.asuswrt-merlin.net/) which adds more features, security and reliahttps://airmessage.org/bility to Asus routers. A future project is to purchase a [Protectli Vault](https://protectli.com/) and use [pfsense](https://www.pfsense.org/) as an even better router and firewall.
 
 
+### Mobile Phone: [GrapheneOS](https://grapheneos.org/)
+
+This one is a lot.
+To keep it brief, GrapheneOS is a fork of the Android Open Source Operating system. It has been modified to be more hardened than this stock operating system. This improves security and privacy. 
+Things such as:
+   - Installing Google services as a normal user and not Admin [source](https://grapheneos.org/features#sandboxed-google-play) to improve functionality and maintain privacy
+   - Using "per-connection MAC randomization" [source](https://grapheneos.org/features#wifi-privacy) for better privacy when using WiFi
+   - [Storage Scopes](https://grapheneos.org/features#storage-scopes) which gives an app permission to only the specified files, while bypassing any apps attempts to stop this
+   - [Auto Reboot](https://grapheneos.org/features#auto-reboot) to help mitigate exploits like Pegasus
+   - A [camera](https://grapheneos.org/features#grapheneos-camera) that doesn't capture un-needed metadata
+   - And many more. see [here](https://grapheneos.org/features) for the full feature list
+   
