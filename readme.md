@@ -7,6 +7,7 @@ Table of Contents:
 - [Router](https://github.com/bradenholm/Portfolio#router)
 - [Mobile Phone](https://github.com/bradenholm/Portfolio#mobile-phone-grapheneos)
 
+---
 
 ### Server 1: SKYNET
 This server is setup as my main server. It has [CasaOS](https://github.com/IceWhaleTech/CasaOS) installed to make installing docker containers easier. 
